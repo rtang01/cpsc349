@@ -1,3 +1,19 @@
+# Day 12
+
+Install [JSON Server](https://github.com/typicode/json-server):
+
+    $ npm install -g json-server
+
+Clone the GitHub repository:
+
+    $ git clone https://github.com/ProfAvery/cpsc349
+
+Start JSON Server:
+
+    $ cd cpsc349/day12
+    $ json-server --watch db/db.json
+
+
 # Day 10
 
 Clone the GitHub repository:
